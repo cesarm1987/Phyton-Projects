@@ -1,0 +1,6 @@
+print ("dame el largo del rectangulo")
+largo = input()
+print ("dame el ancho del rectangulo")
+ancho = input()
+area = int(largo) * int(ancho)
+print("El area del rectangulo es: ", area)
